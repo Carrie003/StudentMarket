@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">MyReview</string>
+    <string name="title_activity_all_ratings">AllRatings</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_rating">Rating</string>
+    <string name="title_activity_add_category">AddCategory</string>
+    <string name="vertical_line">|</string>
+    <string name="title_activity_sell_item_main">SellItemMain</string>
+
+    <string-array name="shop_spinner">
+        <item>Amazon</item>
+        <item>CVS</item>
+        <item>Etsy</item>
+        <item>Target</item>
+        <item>Walmart</item>
+        <item> Costco</item>
+        <item>WholeFoods</item>
+        <item>Handmade</item>
+        <item>Other BigMarket</item>
+        <item>A Small Store</item>
+
+    </string-array>
+
+    <string-array name="feature_spinner">
+        <item>Amazon</item>
+        <item>CVS</item>
+        <item>Etsy</item>
+        <item>Target</item>
+        <item>Walmart</item>
+        <item>Costco</item>
+        <item>Wholefoods</item>
+        <item>Handmade</item>
+
+    </string-array>
+    <string name="title_activity_map_for_marking">Map</string>
+    <string name="title_activity_pin_location">Map</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="title_activity_recent_housing_activities">RecentHousingActivities</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="title_activity_user_page">UserPage</string>
+    <string name="title_activity_following_and_follower_page">FollowingAndFollowerPage</string>
+    <string name="title_activity_trasaction_history_page">TrasactionHistoryPage</string>
+    <string name="title_activity_user_market_page">UserMarketPage</string>
+    <string name="title_activity_recent_transaction_page">RecentTransactionPage</string>
+    <string name="title_activity_book_store">BookStore</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>

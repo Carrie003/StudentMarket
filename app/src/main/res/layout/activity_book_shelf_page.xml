@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Rating.BookShelfPage">
+
+    <ImageView
+        android:id="@+id/imageView18"
+        android:layout_width="610dp"
+        android:layout_height="1252dp"
+        app:srcCompat="@drawable/wood_bg"
+        tools:layout_editor_absoluteX="-162dp"
+        tools:layout_editor_absoluteY="698dp" />
+
+    <EditText
+        android:id="@+id/bookShelfSearchEdit"
+        android:layout_width="350dp"
+        android:layout_height="75dp"
+        android:ems="10"
+        android:inputType="textPersonName"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-1dp" />
+
+    <ListView
+        android:id="@+id/bookShelfListView"
+        android:layout_width="409dp"
+        android:layout_height="659dp"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="75dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
